@@ -1,3 +1,7 @@
+theme: readthedocs
+title: Lucas c'est moi
+description: Bookmark this to keep an eye on my project updates!
+
 site_name: My Docs
 
 nav:
