@@ -102,7 +102,6 @@ En raison de la destruction de leur habitat naturel, les axolotls sont en danger
 
 L'axolotl est un amphibien fascinant, à la fois par ses capacités biologiques uniques et par sa situation de conservation alarmante. Ce guide vous fournit un aperçu complet de leur biologie et de leurs besoins. Pour ceux qui souhaitent en apprendre davantage sur l’élevage ou la préservation de cet amphibien extraordinaire, il est essentiel de respecter les recommandations pour leur offrir un environnement optimal.
 
----
 
 
 
