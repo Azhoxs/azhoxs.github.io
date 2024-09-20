@@ -5,11 +5,11 @@ layout: default
 
 # Axolotl : Un guide complet
 
-![Axolotl](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ambystoma_mexicanum_2.jpg/1024px-Ambystoma_mexicanum_2.jpg)
+<!-- ![Axolotl](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ambystoma_mexicanum_2.jpg/1024px-Ambystoma_mexicanum_2.jpg) -->
 
 ## Introduction
 
-L'**Axolotl** (*Ambystoma mexicanum*) est un amphibien unique, originaire des lacs de Xochimilco et Chalco au Mexique. Il est connu pour sa capacité exceptionnelle à régénérer ses membres, ainsi que pour rester à l'état larvaire tout au long de sa vie, une particularité appelée la **néoténie**.
+L'**Axolotl** est un amphibien unique, originaire des lacs de Xochimilco et Chalco au Mexique. Il est connu pour sa capacité exceptionnelle à régénérer ses membres, ainsi que pour rester à l'état larvaire tout au long de sa vie, une particularité appelée la **néoténie**.
 
 Dans cette documentation, nous allons explorer ses caractéristiques, son habitat, son régime alimentaire, et ses besoins en captivité.
 
@@ -17,13 +17,13 @@ Dans cette documentation, nous allons explorer ses caractéristiques, son habita
 
 ## Table des matières
 
-1. [Caractéristiques de l'Axolotl](#caractéristiques-de-laxolotl)
-2. [Habitat naturel](#habitat-naturel)
-3. [Régénération et néoténie](#régénération-et-néoténie)
-4. [Alimentation](#alimentation)
-5. [Axolotls en captivité](#axolotls-en-captivité)
-6. [Conservation](#conservation)
-7. [Faits intéressants](#faits-intéressants)
+1. [Caractéristiques de l'Axolotl]
+2. [Habitat naturel]
+3. [Régénération et néoténie]
+4. [Alimentation]
+5. [Axolotls en captivité]
+6. [Conservation]
+7. [Faits intéressants]
 
 ---
 
@@ -104,5 +104,5 @@ L'axolotl est un amphibien fascinant, à la fois par ses capacités biologiques 
 
 ---
 
-*Crédits image : Wikipedia Commons*
+
 
