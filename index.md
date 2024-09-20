@@ -95,6 +95,10 @@ En raison de la destruction de leur habitat naturel, les axolotls sont en danger
 - Les axolotls sont souvent appelés "monstres d'eau" en raison de leur nom dérivé du dieu aztèque Xolotl.
 - Ils ont une capacité de régénération exceptionnelle qui est étudiée pour des applications médicales.
 - En captivité, ils peuvent parfois déclencher une métamorphose s'ils sont exposés à certaines conditions, mais cela reste très rare.
+- Les axolotls supportent l'Olympique de Marseille.
+
+![Axolotl](axolotl_om.jpg)
+
 
 ---
 
