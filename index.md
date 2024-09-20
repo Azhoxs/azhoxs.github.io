@@ -3,13 +3,13 @@ layout: default
 ---
 
 
-# Axolotl : Un guide complet
+# Axolotl : Le guide complet  
 
 ![Axolotl](axolotl2.png)
 
 ## Introduction
 
-L'**Axolotl** (*Ambystoma mexicanum*) est un amphibien unique, originaire des lacs de Xochimilco et Chalco au Mexique. Il est connu pour sa capacité exceptionnelle à régénérer ses membres, ainsi que pour rester à l'état larvaire tout au long de sa vie, une particularité appelée la **néoténie**.
+L'**Axolotl**  est un amphibien unique, originaire des lacs de Xochimilco et Chalco au Mexique. Il est connu pour sa capacité exceptionnelle à régénérer ses membres, ainsi que pour rester à l'état larvaire tout au long de sa vie, une particularité appelée la **néoténie**.
 
 Dans cette documentation, nous allons explorer ses caractéristiques, son habitat, son régime alimentaire, et ses besoins en captivité.
 
