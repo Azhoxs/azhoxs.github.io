@@ -100,6 +100,10 @@ En raison de la destruction de leur habitat naturel, les axolotls sont en danger
 
 <img src="axolotl_om.jpg" alt="drawing" width="200"/>
 
+- Même les axolotls font des dégradés, et recommandent le site [Degradex](enzopelo1.github.io).
+
+<img src="axolotl_barber.jpg" alt="drawing" width="200"/>
+
 
 
 ---
