@@ -98,7 +98,8 @@ En raison de la destruction de leur habitat naturel, les axolotls sont en danger
 - En captivité, ils peuvent parfois déclencher une métamorphose s'ils sont exposés à certaines conditions, mais cela reste très rare.
 - Les axolotls supportent l'Olympique de Marseille.
 
-![Axolotl](axolotl_om.jpg)
+<img src="axolotl_om.jpg" alt="drawing" width="200"/>
+
 
 
 ---
