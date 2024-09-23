@@ -10,22 +10,22 @@ Découvrez ces magnifiques créatures aquatiques qu'on appelle **axolotls** !
 
 ## Axolotl Rose
 
-<img src="axolotl_rose.jpg" alt="drawing" width="400"/>
+![axolotl_rose](axolotl_rose.jpg)
 *Un axolotl rose nageant paisiblement dans un aquarium.*
 
 ## Axolotl Blanc Albinos
 
-<img src="axolotl_albinos.jpg" alt="drawing" width="400"/>
+![axolotl_albinos](axolotl_albinos.jpg)
 *Cet axolotl albinos a une magnifique peau blanche.*
 
 ## Axolotl Noir
 
-<img src="axolotl_noir.jpg" alt="drawing" width="400"/>
+![axolotl_noir](axolotl_noir.jpg)
 *Un axolotl noir, rare et majestueux, se cache dans les plantes sous-marines.*
 
 ## Axolotl le plus rare
 
-<img src="axolotl_rare.jpg" alt="drawing" width="400"/>
+![axolotl_rare](axolotl_rare.jpg)
 *Voici l'axolotl le plus rare, il est magnifique.*
 
 ---
